@@ -34,7 +34,7 @@
 
 This repository presents a **research-grade, publication-ready GeoAI pipeline** that predicts urban delivery demand and optimizes last-mile logistics routes for **Natore District, Bangladesh**, a secondary-city context where formal logistics infrastructure is rapidly emerging alongside explosive e-commerce growth.
 
-The framework fuses **geospatial analysis**, **ensemble machine learning**, **spatial statistics**, and **operations research** into a single, reproducible decision-support system — complete with an **interactive WebGIS dashboard**.
+The framework fuses **geospatial analysis**, **ensemble machine learning**, **spatial statistics**, and **operations research** into a single, reproducible decision-support system, complete with an **interactive WebGIS dashboard**.
 
 ---
 
@@ -60,7 +60,7 @@ The framework fuses **geospatial analysis**, **ensemble machine learning**, **sp
 
 ## Study Area
 
-**Natore District**, Rajshahi Division, Bangladesh
+**Natore**, Rajshahi Division, Bangladesh
 ~24.42°N, 88.99°E &nbsp;|&nbsp; Area: 1,701 km² &nbsp;|&nbsp; Population: ~1.72M &nbsp;|&nbsp; 7 Upazilas
 
 <p align="center">
@@ -120,23 +120,6 @@ graph LR
   <img src="figures/fig10_integrated_decision_support.png" width="85%" alt="Integrated Decision Support Map">
   <br><sub><b>Figure 10</b> — Integrated Decision-Support Dashboard combining demand, hotspots, routes, and depot coverage</sub>
 </p>
-
----
-
-```bash
-# Clone the repository
-git clone https://github.com/mdkhademali/natore-geoai-logistics.git
-cd natore-geoai-logistics
-
-# Install dependencies
-pip install geopandas folium osmnx scikit-learn xgboost networkx \
-            libpysal esda shapely matplotlib seaborn nbformat
-
-# Launch Jupyter
-jupyter notebook Natore_GeoAI_Logistics.ipynb
-```
-
-**Core dependencies:** `geopandas` · `folium` · `networkx` · `scikit-learn` · `xgboost` · `libpysal` · `esda` · `shapely` · `matplotlib`
 
 ---
 
