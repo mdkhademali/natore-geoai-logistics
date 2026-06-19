@@ -16,14 +16,6 @@
 
 <br>
 
-[![Stars](https://img.shields.io/github/stars/mdkhademali/natore-geoai-logistics?style=social)](https://github.com/mdkhademali/natore-geoai-logistics/stargazers)
-[![Forks](https://img.shields.io/github/forks/mdkhademali/natore-geoai-logistics?style=social)](https://github.com/mdkhademali/natore-geoai-logistics/network/members)
-[![Issues](https://img.shields.io/github/issues/mdkhademali/natore-geoai-logistics?color=red)](https://github.com/mdkhademali/natore-geoai-logistics/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/mdkhademali/natore-geoai-logistics?color=blue)](https://github.com/mdkhademali/natore-geoai-logistics/commits/main)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/mdkhademali/natore-geoai-logistics)
-
-<br>
-
 **SDG 9** · Industry, Innovation & Infrastructure &nbsp;|&nbsp; **SDG 11** · Sustainable Cities &nbsp;|&nbsp; **SDG 13** · Climate Action
 
 </div>
@@ -118,7 +110,7 @@ graph LR
 
 <p align="center">
   <img src="figures/fig10_integrated_decision_support.png" width="85%" alt="Integrated Decision Support Map">
-  <br><sub><b>Figure 10</b> — Integrated Decision-Support Dashboard combining demand, hotspots, routes, and depot coverage</sub>
+  <br><sub><b>Figure 10</b>: Integrated Decision-Support Dashboard combining demand, hotspots, routes, and depot coverage</sub>
 </p>
 
 ---
