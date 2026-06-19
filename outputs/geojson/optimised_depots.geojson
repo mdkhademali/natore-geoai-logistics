@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "optimised_depots",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "depot_id": "OPT-D1" }, "geometry": { "type": "Point", "coordinates": [ 89.041633126599507, 24.572045938783866 ] } },
+{ "type": "Feature", "properties": { "depot_id": "OPT-D2" }, "geometry": { "type": "Point", "coordinates": [ 89.080402228583836, 24.275473948431053 ] } },
+{ "type": "Feature", "properties": { "depot_id": "OPT-D3" }, "geometry": { "type": "Point", "coordinates": [ 88.957299801373921, 24.434550211723479 ] } }
+]
+}
